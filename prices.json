@@ -1,0 +1,2312 @@
+[
+    {
+        "Category": "Chemicals",
+        "Name": "Agronomic Treatment",
+        "Buy": "634",
+        "Ø Price": "3,155",
+        "Sell": "32,648",
+        "Profit": "32,014",
+        "% Buy": "2 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Explosives",
+        "Buy": "18",
+        "Ø Price": "419",
+        "Sell": "2,101",
+        "Profit": "2,083",
+        "% Buy": "18 %",
+        "% Sell": "37 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Hydrogen Fuel",
+        "Buy": "9",
+        "Ø Price": "108",
+        "Sell": "198",
+        "Profit": "189",
+        "% Buy": "62 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Hydrogen Peroxide",
+        "Buy": "",
+        "Ø Price": "3,160",
+        "Sell": "3,301",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "39 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Liquid oxygen",
+        "Buy": "64",
+        "Ø Price": "1,412",
+        "Sell": "4,239",
+        "Profit": "4,175",
+        "% Buy": "20 %",
+        "% Sell": "39 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Mineral Oil",
+        "Buy": "13",
+        "Ø Price": "394",
+        "Sell": "1,483",
+        "Profit": "1,470",
+        "% Buy": "3 %",
+        "% Sell": "24 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Nerve Agents",
+        "Buy": "1,228",
+        "Ø Price": "13,454",
+        "Sell": "14,485",
+        "Profit": "13,257",
+        "% Buy": "2 %",
+        "% Sell": "6 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Pesticides",
+        "Buy": "54",
+        "Ø Price": "421",
+        "Sell": "1,708",
+        "Profit": "1,654",
+        "% Buy": "2 %",
+        "% Sell": "5 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Rockforth Fertiliser",
+        "Buy": "",
+        "Ø Price": "8",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Surface Stabilisers",
+        "Buy": "36",
+        "Ø Price": "662",
+        "Sell": "2,625",
+        "Profit": "2,589",
+        "% Buy": "24 %",
+        "% Sell": "36 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Synthetic Reagents",
+        "Buy": "579",
+        "Ø Price": "6,529",
+        "Sell": "7,851",
+        "Profit": "7,272",
+        "% Buy": "3 %",
+        "% Sell": "10 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Tritium",
+        "Buy": "45,161",
+        "Ø Price": "51,572",
+        "Sell": "61,792",
+        "Profit": "16,631",
+        "% Buy": "20 %",
+        "% Sell": "35 %"
+    },
+    {
+        "Category": "Chemicals",
+        "Name": "Water",
+        "Buy": "3",
+        "Ø Price": "266",
+        "Sell": "1,969",
+        "Profit": "1,966",
+        "% Buy": "4 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Consumer Items",
+        "Name": "Clothing",
+        "Buy": "21",
+        "Ø Price": "459",
+        "Sell": "2,582",
+        "Profit": "2,561",
+        "% Buy": "13 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Consumer Items",
+        "Name": "Consumer Technology",
+        "Buy": "5,258",
+        "Ø Price": "6,812",
+        "Sell": "8,600",
+        "Profit": "3,342",
+        "% Buy": "2 %",
+        "% Sell": "62 %"
+    },
+    {
+        "Category": "Consumer Items",
+        "Name": "Domestic Appliances",
+        "Buy": "34",
+        "Ø Price": "658",
+        "Sell": "1,216",
+        "Profit": "1,182",
+        "% Buy": "13 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Consumer Items",
+        "Name": "Evacuation Shelter",
+        "Buy": "146",
+        "Ø Price": "535",
+        "Sell": "4,139",
+        "Profit": "3,993",
+        "% Buy": "2 %",
+        "% Sell": "17 %"
+    },
+    {
+        "Category": "Consumer Items",
+        "Name": "Survival Equipment",
+        "Buy": "272",
+        "Ø Price": "647",
+        "Sell": "10,205",
+        "Profit": "9,933",
+        "% Buy": "19 %",
+        "% Sell": "33 %"
+    },
+    {
+        "Category": "Consumer Items",
+        "Name": "Trinkets of Hidden Fortune",
+        "Buy": "",
+        "Ø Price": "3,418",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Foods",
+        "Name": "Algae",
+        "Buy": "6",
+        "Ø Price": "321",
+        "Sell": "2,212",
+        "Profit": "2,206",
+        "% Buy": "3 %",
+        "% Sell": "26 %"
+    },
+    {
+        "Category": "Foods",
+        "Name": "Animal Meat",
+        "Buy": "129",
+        "Ø Price": "1,524",
+        "Sell": "6,096",
+        "Profit": "5,967",
+        "% Buy": "3 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Foods",
+        "Name": "Coffee",
+        "Buy": "109",
+        "Ø Price": "1,504",
+        "Sell": "4,131",
+        "Profit": "4,022",
+        "% Buy": "3 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Foods",
+        "Name": "Fish",
+        "Buy": "33",
+        "Ø Price": "640",
+        "Sell": "3,656",
+        "Profit": "3,623",
+        "% Buy": "3 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Foods",
+        "Name": "Food Cartridges",
+        "Buy": "4",
+        "Ø Price": "225",
+        "Sell": "3,521",
+        "Profit": "3,517",
+        "% Buy": "19 %",
+        "% Sell": "60 %"
+    },
+    {
+        "Category": "Foods",
+        "Name": "Fruit and Vegetables",
+        "Buy": "26",
+        "Ø Price": "528",
+        "Sell": "4,240",
+        "Profit": "4,214",
+        "% Buy": "3 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Foods",
+        "Name": "Grain",
+        "Buy": "15",
+        "Ø Price": "432",
+        "Sell": "3,676",
+        "Profit": "3,661",
+        "% Buy": "3 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Foods",
+        "Name": "Synthetic Meat",
+        "Buy": "87",
+        "Ø Price": "487",
+        "Sell": "2,452",
+        "Profit": "2,365",
+        "% Buy": "2 %",
+        "% Sell": "60 %"
+    },
+    {
+        "Category": "Foods",
+        "Name": "Tea",
+        "Buy": "124",
+        "Ø Price": "1,691",
+        "Sell": "4,392",
+        "Profit": "4,268",
+        "% Buy": "3 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Industrial Materials",
+        "Name": "Ceramic Composites",
+        "Buy": "74",
+        "Ø Price": "393",
+        "Sell": "10,379",
+        "Profit": "10,305",
+        "% Buy": "3 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Industrial Materials",
+        "Name": "CMM Composite",
+        "Buy": "4,973",
+        "Ø Price": "5,984",
+        "Sell": "20,279",
+        "Profit": "15,306",
+        "% Buy": "3 %",
+        "% Sell": "29 %"
+    },
+    {
+        "Category": "Industrial Materials",
+        "Name": "Insulating Membrane",
+        "Buy": "9,315",
+        "Ø Price": "10,691",
+        "Sell": "20,665",
+        "Profit": "11,350",
+        "% Buy": "15 %",
+        "% Sell": "41 %"
+    },
+    {
+        "Category": "Industrial Materials",
+        "Name": "Meta-Alloys",
+        "Buy": "271,698",
+        "Ø Price": "195,422",
+        "Sell": "271,685",
+        "Profit": "-13",
+        "% Buy": "0 %",
+        "% Sell": "7 %"
+    },
+    {
+        "Category": "Industrial Materials",
+        "Name": "Micro-weave Cooling Hoses",
+        "Buy": "",
+        "Ø Price": "1,886",
+        "Sell": "6,268",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "23 %"
+    },
+    {
+        "Category": "Industrial Materials",
+        "Name": "Neofabric Insulation",
+        "Buy": "",
+        "Ø Price": "5,980",
+        "Sell": "19,933",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "7 %"
+    },
+    {
+        "Category": "Industrial Materials",
+        "Name": "Polymers",
+        "Buy": "6",
+        "Ø Price": "308",
+        "Sell": "9,198",
+        "Profit": "9,192",
+        "% Buy": "21 %",
+        "% Sell": "46 %"
+    },
+    {
+        "Category": "Industrial Materials",
+        "Name": "Semiconductors",
+        "Buy": "66",
+        "Ø Price": "1,095",
+        "Sell": "2,064",
+        "Profit": "1,998",
+        "% Buy": "20 %",
+        "% Sell": "42 %"
+    },
+    {
+        "Category": "Industrial Materials",
+        "Name": "Superconductors",
+        "Buy": "5,322",
+        "Ø Price": "6,477",
+        "Sell": "10,593",
+        "Profit": "5,271",
+        "% Buy": "21 %",
+        "% Sell": "42 %"
+    },
+    {
+        "Category": "Legal Drugs",
+        "Name": "Beer",
+        "Buy": "11",
+        "Ø Price": "402",
+        "Sell": "35,295",
+        "Profit": "35,284",
+        "% Buy": "3 %",
+        "% Sell": "61 %"
+    },
+    {
+        "Category": "Legal Drugs",
+        "Name": "Bootleg Liquor",
+        "Buy": "",
+        "Ø Price": "786",
+        "Sell": "5,363",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "22 %"
+    },
+    {
+        "Category": "Legal Drugs",
+        "Name": "Liquor",
+        "Buy": "54",
+        "Ø Price": "794",
+        "Sell": "55,767",
+        "Profit": "55,713",
+        "% Buy": "12 %",
+        "% Sell": "61 %"
+    },
+    {
+        "Category": "Legal Drugs",
+        "Name": "Narcotics",
+        "Buy": "828",
+        "Ø Price": "10,174",
+        "Sell": "11,400",
+        "Profit": "10,572",
+        "% Buy": "0 %",
+        "% Sell": "6 %"
+    },
+    {
+        "Category": "Legal Drugs",
+        "Name": "Tobacco",
+        "Buy": "442",
+        "Ø Price": "5,320",
+        "Sell": "7,590",
+        "Profit": "7,148",
+        "% Buy": "1 %",
+        "% Sell": "33 %"
+    },
+    {
+        "Category": "Legal Drugs",
+        "Name": "Wine",
+        "Buy": "19",
+        "Ø Price": "483",
+        "Sell": "21,871",
+        "Profit": "21,852",
+        "% Buy": "3 %",
+        "% Sell": "61 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Articulation Motors",
+        "Buy": "",
+        "Ø Price": "7,586",
+        "Sell": "7,851",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "2 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Atmospheric Processors",
+        "Buy": "25",
+        "Ø Price": "472",
+        "Sell": "1,851",
+        "Profit": "1,826",
+        "% Buy": "19 %",
+        "% Sell": "24 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Building Fabricators",
+        "Buy": "174",
+        "Ø Price": "2,248",
+        "Sell": "3,342",
+        "Profit": "3,168",
+        "% Buy": "19 %",
+        "% Sell": "33 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Crop Harvesters",
+        "Buy": "174",
+        "Ø Price": "2,100",
+        "Sell": "3,804",
+        "Profit": "3,630",
+        "% Buy": "19 %",
+        "% Sell": "22 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Emergency Power Cells",
+        "Buy": "1,785",
+        "Ø Price": "2,435",
+        "Sell": "6,710",
+        "Profit": "4,925",
+        "% Buy": "0 %",
+        "% Sell": "23 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Energy Grid Assembly",
+        "Buy": "2,010",
+        "Ø Price": "2,692",
+        "Sell": "6,819",
+        "Profit": "4,809",
+        "% Buy": "0 %",
+        "% Sell": "7 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Exhaust Manifold",
+        "Buy": "1,360",
+        "Ø Price": "1,896",
+        "Sell": "2,511",
+        "Profit": "1,151",
+        "% Buy": "0 %",
+        "% Sell": "2 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Geological Equipment",
+        "Buy": "135",
+        "Ø Price": "1,857",
+        "Sell": "2,903",
+        "Profit": "2,768",
+        "% Buy": "19 %",
+        "% Sell": "33 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Heatsink Interlink",
+        "Buy": "1,541",
+        "Ø Price": "2,113",
+        "Sell": "2,764",
+        "Profit": "1,223",
+        "% Buy": "0 %",
+        "% Sell": "2 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "HN Shock Mount",
+        "Buy": "135",
+        "Ø Price": "1,727",
+        "Sell": "2,633",
+        "Profit": "2,498",
+        "% Buy": "19 %",
+        "% Sell": "26 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Ion Distributor",
+        "Buy": "1,750",
+        "Ø Price": "2,380",
+        "Sell": "3,051",
+        "Profit": "1,301",
+        "% Buy": "0 %",
+        "% Sell": "4 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Magnetic Emitter Coil",
+        "Buy": "842",
+        "Ø Price": "1,356",
+        "Sell": "1,922",
+        "Profit": "1,080",
+        "% Buy": "0 %",
+        "% Sell": "2 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Marine Equipment",
+        "Buy": "351",
+        "Ø Price": "3,977",
+        "Sell": "5,591",
+        "Profit": "5,240",
+        "% Buy": "19 %",
+        "% Sell": "22 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Microbial Furnaces",
+        "Buy": "24",
+        "Ø Price": "467",
+        "Sell": "2,010",
+        "Profit": "1,986",
+        "% Buy": "1 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Mineral Extractors",
+        "Buy": "43",
+        "Ø Price": "727",
+        "Sell": "2,647",
+        "Profit": "2,604",
+        "% Buy": "16 %",
+        "% Sell": "38 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Modular Terminals",
+        "Buy": "",
+        "Ø Price": "2,474",
+        "Sell": "2,634",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "2 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Power Converter",
+        "Buy": "969",
+        "Ø Price": "1,468",
+        "Sell": "2,005",
+        "Profit": "1,036",
+        "% Buy": "0 %",
+        "% Sell": "2 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Power Generators",
+        "Buy": "1,771",
+        "Ø Price": "2,362",
+        "Sell": "4,576",
+        "Profit": "2,805",
+        "% Buy": "16 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Power Transfer Bus",
+        "Buy": "1,634",
+        "Ø Price": "2,202",
+        "Sell": "2,902",
+        "Profit": "1,268",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Radiation Baffle",
+        "Buy": "1,216",
+        "Ø Price": "1,786",
+        "Sell": "2,395",
+        "Profit": "1,179",
+        "% Buy": "0 %",
+        "% Sell": "4 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Reinforced Mounting Plate",
+        "Buy": "1,858",
+        "Ø Price": "2,451",
+        "Sell": "3,212",
+        "Profit": "1,354",
+        "% Buy": "0 %",
+        "% Sell": "1 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Skimmer Components",
+        "Buy": "76",
+        "Ø Price": "1,079",
+        "Sell": "1,702",
+        "Profit": "1,626",
+        "% Buy": "19 %",
+        "% Sell": "33 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Thermal Cooling Units",
+        "Buy": "305",
+        "Ø Price": "3,726",
+        "Sell": "6,916",
+        "Profit": "6,611",
+        "% Buy": "19 %",
+        "% Sell": "33 %"
+    },
+    {
+        "Category": "Machinery",
+        "Name": "Water Purifiers",
+        "Buy": "81",
+        "Ø Price": "411",
+        "Sell": "4,639",
+        "Profit": "4,558",
+        "% Buy": "17 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Medicines",
+        "Name": "Advanced Medicines",
+        "Buy": "851",
+        "Ø Price": "1,475",
+        "Sell": "4,805",
+        "Profit": "3,954",
+        "% Buy": "1 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Medicines",
+        "Name": "Agri-Medicines",
+        "Buy": "441",
+        "Ø Price": "1,232",
+        "Sell": "1,801",
+        "Profit": "1,360",
+        "% Buy": "2 %",
+        "% Sell": "5 %"
+    },
+    {
+        "Category": "Medicines",
+        "Name": "Basic Medicines",
+        "Buy": "18",
+        "Ø Price": "436",
+        "Sell": "5,258",
+        "Profit": "5,240",
+        "% Buy": "20 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Medicines",
+        "Name": "Combat Stabilisers",
+        "Buy": "2,249",
+        "Ø Price": "3,711",
+        "Sell": "3,894",
+        "Profit": "1,645",
+        "% Buy": "0 %",
+        "% Sell": "7 %"
+    },
+    {
+        "Category": "Medicines",
+        "Name": "Performance Enhancers",
+        "Buy": "5,258",
+        "Ø Price": "6,834",
+        "Sell": "8,197",
+        "Profit": "2,939",
+        "% Buy": "2 %",
+        "% Sell": "58 %"
+    },
+    {
+        "Category": "Medicines",
+        "Name": "Progenitor Cells",
+        "Buy": "5,616",
+        "Ø Price": "6,803",
+        "Sell": "8,563",
+        "Profit": "2,947",
+        "% Buy": "2 %",
+        "% Sell": "51 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Aluminium",
+        "Buy": "20",
+        "Ø Price": "473",
+        "Sell": "2,155",
+        "Profit": "2,135",
+        "% Buy": "21 %",
+        "% Sell": "44 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Beryllium",
+        "Buy": "722",
+        "Ø Price": "8,138",
+        "Sell": "9,595",
+        "Profit": "8,873",
+        "% Buy": "19 %",
+        "% Sell": "40 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Bismuth",
+        "Buy": "192",
+        "Ø Price": "2,374",
+        "Sell": "3,567",
+        "Profit": "3,375",
+        "% Buy": "3 %",
+        "% Sell": "6 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Cobalt",
+        "Buy": "752",
+        "Ø Price": "3,481",
+        "Sell": "19,983",
+        "Profit": "19,231",
+        "% Buy": "29 %",
+        "% Sell": "48 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Copper",
+        "Buy": "32",
+        "Ø Price": "613",
+        "Sell": "1,907",
+        "Profit": "1,875",
+        "% Buy": "21 %",
+        "% Sell": "39 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Gallium",
+        "Buy": "428",
+        "Ø Price": "5,068",
+        "Sell": "6,453",
+        "Profit": "6,025",
+        "% Buy": "19 %",
+        "% Sell": "40 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Gold",
+        "Buy": "4,265",
+        "Ø Price": "47,487",
+        "Sell": "67,646",
+        "Profit": "63,381",
+        "% Buy": "26 %",
+        "% Sell": "56 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Hafnium 178",
+        "Buy": "",
+        "Ø Price": "69,098",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Indium",
+        "Buy": "494",
+        "Ø Price": "5,651",
+        "Sell": "7,252",
+        "Profit": "6,758",
+        "% Buy": "21 %",
+        "% Sell": "40 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Lanthanum",
+        "Buy": "770",
+        "Ø Price": "8,672",
+        "Sell": "10,196",
+        "Profit": "9,426",
+        "% Buy": "3 %",
+        "% Sell": "6 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Lithium",
+        "Buy": "121",
+        "Ø Price": "1,697",
+        "Sell": "2,782",
+        "Profit": "2,661",
+        "% Buy": "19 %",
+        "% Sell": "40 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Osmium",
+        "Buy": "",
+        "Ø Price": "45,180",
+        "Sell": "269,893",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "28 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Palladium",
+        "Buy": "4,687",
+        "Ø Price": "50,587",
+        "Sell": "71,322",
+        "Profit": "66,635",
+        "% Buy": "19 %",
+        "% Sell": "49 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Platinum",
+        "Buy": "",
+        "Ø Price": "58,247",
+        "Sell": "293,142",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "30 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Praseodymium",
+        "Buy": "",
+        "Ø Price": "8,619",
+        "Sell": "11,509",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "22 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Samarium",
+        "Buy": "",
+        "Ø Price": "25,851",
+        "Sell": "48,625",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "22 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Silver",
+        "Buy": "3,372",
+        "Ø Price": "37,099",
+        "Sell": "49,379",
+        "Profit": "46,007",
+        "% Buy": "27 %",
+        "% Sell": "56 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Tantalum",
+        "Buy": "323",
+        "Ø Price": "3,947",
+        "Sell": "5,284",
+        "Profit": "4,961",
+        "% Buy": "19 %",
+        "% Sell": "40 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Thallium",
+        "Buy": "310",
+        "Ø Price": "3,680",
+        "Sell": "4,997",
+        "Profit": "4,687",
+        "% Buy": "3 %",
+        "% Sell": "6 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Thorium",
+        "Buy": "1,068",
+        "Ø Price": "11,279",
+        "Sell": "12,917",
+        "Profit": "11,849",
+        "% Buy": "3 %",
+        "% Sell": "10 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Titanium",
+        "Buy": "74",
+        "Ø Price": "1,116",
+        "Sell": "2,203",
+        "Profit": "2,129",
+        "% Buy": "21 %",
+        "% Sell": "44 %"
+    },
+    {
+        "Category": "Metals",
+        "Name": "Uranium",
+        "Buy": "213",
+        "Ø Price": "2,757",
+        "Sell": "3,921",
+        "Profit": "3,708",
+        "% Buy": "19 %",
+        "% Sell": "40 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Alexandrite",
+        "Buy": "",
+        "Ø Price": "217,187",
+        "Sell": "704,031",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Bauxite",
+        "Buy": "655",
+        "Ø Price": "1,077",
+        "Sell": "30,808",
+        "Profit": "30,153",
+        "% Buy": "15 %",
+        "% Sell": "37 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Benitoite",
+        "Buy": "",
+        "Ø Price": "149,321",
+        "Sell": "778,254",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Bertrandite",
+        "Buy": "1,540",
+        "Ø Price": "18,730",
+        "Sell": "23,757",
+        "Profit": "22,217",
+        "% Buy": "16 %",
+        "% Sell": "37 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Bromellite",
+        "Buy": "",
+        "Ø Price": "30,422",
+        "Sell": "116,750",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "2 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Coltan",
+        "Buy": "452",
+        "Ø Price": "6,050",
+        "Sell": "8,800",
+        "Profit": "8,348",
+        "% Buy": "15 %",
+        "% Sell": "37 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Cryolite",
+        "Buy": "8,055",
+        "Ø Price": "12,120",
+        "Sell": "29,940",
+        "Profit": "21,885",
+        "% Buy": "1 %",
+        "% Sell": "26 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Gallite",
+        "Buy": "911",
+        "Ø Price": "11,796",
+        "Sell": "15,429",
+        "Profit": "14,518",
+        "% Buy": "16 %",
+        "% Sell": "38 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Goslarite",
+        "Buy": "1,880",
+        "Ø Price": "5,947",
+        "Sell": "16,048",
+        "Profit": "14,168",
+        "% Buy": "1 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Grandidierite",
+        "Buy": "",
+        "Ø Price": "197,198",
+        "Sell": "747,946",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Indite",
+        "Buy": "924",
+        "Ø Price": "11,285",
+        "Sell": "14,889",
+        "Profit": "13,965",
+        "% Buy": "15 %",
+        "% Sell": "37 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Jadeite",
+        "Buy": "",
+        "Ø Price": "42,372",
+        "Sell": "213,497",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "1 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Lepidolite",
+        "Buy": "39",
+        "Ø Price": "709",
+        "Sell": "8,205",
+        "Profit": "8,166",
+        "% Buy": "16 %",
+        "% Sell": "37 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Lithium Hydroxide",
+        "Buy": "",
+        "Ø Price": "5,673",
+        "Sell": "7,729",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Low Temperature Diamonds",
+        "Buy": "",
+        "Ø Price": "106,288",
+        "Sell": "409,366",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "41 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Methane Clathrate",
+        "Buy": "",
+        "Ø Price": "1,649",
+        "Sell": "1,740",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "24 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Methanol Monohydrate Crystals",
+        "Buy": "",
+        "Ø Price": "2,477",
+        "Sell": "3,702",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "2 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Moissanite",
+        "Buy": "",
+        "Ø Price": "24,825",
+        "Sell": "204,488",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "1 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Monazite",
+        "Buy": "",
+        "Ø Price": "200,922",
+        "Sell": "773,230",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "30 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Musgravite",
+        "Buy": "",
+        "Ø Price": "198,521",
+        "Sell": "808,630",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Painite",
+        "Buy": "",
+        "Ø Price": "52,985",
+        "Sell": "405,044",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "40 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Pyrophyllite",
+        "Buy": "6,379",
+        "Ø Price": "11,468",
+        "Sell": "29,098",
+        "Profit": "22,719",
+        "% Buy": "1 %",
+        "% Sell": "26 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Rhodplumsite",
+        "Buy": "",
+        "Ø Price": "176,788",
+        "Sell": "808,488",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Rutile",
+        "Buy": "1,378",
+        "Ø Price": "1,997",
+        "Sell": "21,092",
+        "Profit": "19,714",
+        "% Buy": "16 %",
+        "% Sell": "38 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Serendibite",
+        "Buy": "",
+        "Ø Price": "172,629",
+        "Sell": "637,561",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Taaffeite",
+        "Buy": "",
+        "Ø Price": "52,077",
+        "Sell": "262,395",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "1 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Uraninite",
+        "Buy": "203",
+        "Ø Price": "2,865",
+        "Sell": "4,771",
+        "Profit": "4,568",
+        "% Buy": "16 %",
+        "% Sell": "37 %"
+    },
+    {
+        "Category": "Minerals",
+        "Name": "Void Opals",
+        "Buy": "",
+        "Ø Price": "135,214",
+        "Sell": "515,405",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "AI Relics",
+        "Buy": "",
+        "Ø Price": "138,613",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Ancient Artefact (USS Cargo)",
+        "Buy": "",
+        "Ø Price": "8,183",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Ancient Key",
+        "Buy": "",
+        "Ø Price": "29,931",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Anomaly Particles",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Antimatter Containment Unit",
+        "Buy": "",
+        "Ø Price": "26,608",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Antique Jewellery",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Antiquities",
+        "Buy": "",
+        "Ø Price": "115,511",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Assault Plans",
+        "Buy": "",
+        "Ø Price": "446",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Black Box (USS Cargo)",
+        "Buy": "",
+        "Ø Price": "20,534",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Commercial Samples",
+        "Buy": "",
+        "Ø Price": "361",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Damaged Escape Pod",
+        "Buy": "",
+        "Ø Price": "16,965",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Data Core",
+        "Buy": "",
+        "Ø Price": "2,872",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Diplomatic Bag",
+        "Buy": "",
+        "Ø Price": "572",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Earth Relics",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Encrypted Correspondence",
+        "Buy": "",
+        "Ø Price": "372",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Encrypted Data Storage",
+        "Buy": "",
+        "Ø Price": "806",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Experimental Chemicals (USS Cargo)",
+        "Buy": "",
+        "Ø Price": "3,524",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Fossil Remnants",
+        "Buy": "",
+        "Ø Price": "9,927",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Gene Bank",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Geological Samples",
+        "Buy": "",
+        "Ø Price": "446",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Guardian Casket",
+        "Buy": "",
+        "Ø Price": "16,294",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Guardian Orb",
+        "Buy": "",
+        "Ø Price": "17,415",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Guardian Relic",
+        "Buy": "",
+        "Ø Price": "24,962",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Guardian Tablet",
+        "Buy": "",
+        "Ø Price": "17,415",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Guardian Totem",
+        "Buy": "",
+        "Ø Price": "20,437",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Guardian Urn",
+        "Buy": "",
+        "Ø Price": "14,907",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Hostages",
+        "Buy": "",
+        "Ø Price": "34,603",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Large Survey Data Cache",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Military Intelligence",
+        "Buy": "",
+        "Ø Price": "55,527",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Military Plans (USS Cargo)",
+        "Buy": "",
+        "Ø Price": "9,413",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Mollusc Brain Tissue",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Mollusc Fluid",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Mollusc Membrane",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Mollusc Mycelium",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Mollusc Soft Tissue",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Mollusc Spores",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Mysterious Idol",
+        "Buy": "",
+        "Ø Price": "15,196",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Occupied Escape Pod",
+        "Buy": "",
+        "Ø Price": "30,362",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Personal Effects",
+        "Buy": "",
+        "Ø Price": "9,542",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Pod Core Tissue",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Pod Dead Tissue",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Pod Mesoglea",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Pod Outer Tissue",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Pod Shell Tissue",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Pod Surface Tissue",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Pod Tissue",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Political Prisoners",
+        "Buy": "",
+        "Ø Price": "6,242",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Precious Gems",
+        "Buy": "",
+        "Ø Price": "109,641",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Prohibited Research Materials",
+        "Buy": "",
+        "Ø Price": "46,607",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Prototype Tech (USS Cargo)",
+        "Buy": "",
+        "Ø Price": "10,696",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Rare Artwork (USS Cargo)",
+        "Buy": "",
+        "Ø Price": "7,774",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Rebel Transmissions (USS Cargo)",
+        "Buy": "",
+        "Ø Price": "4,068",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "SAP 8 Core Container",
+        "Buy": "",
+        "Ø Price": "59,196",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Scientific Research",
+        "Buy": "",
+        "Ø Price": "635",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Scientific Samples",
+        "Buy": "",
+        "Ø Price": "772",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Small Survey Data Cache",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Space Pioneer Relics",
+        "Buy": "",
+        "Ø Price": "7,342",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Tactical Data",
+        "Buy": "",
+        "Ø Price": "457",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Technical Blueprints (USS Cargo)",
+        "Buy": "",
+        "Ø Price": "5,947",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Basilisk Tissue Sample",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Biological Matter",
+        "Buy": "",
+        "Ø Price": "25,479",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Cyclops Tissue Sample",
+        "Buy": "",
+        "Ø Price": "14,081",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Heart",
+        "Buy": "",
+        "Ø Price": "141,910",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Hydra Tissue Sample",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Link",
+        "Buy": "",
+        "Ø Price": "31,350",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Medusa Tissue Sample",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Probe",
+        "Buy": "",
+        "Ø Price": "454,191",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Resin",
+        "Buy": "",
+        "Ø Price": "18,652",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Scout Tissue Sample",
+        "Buy": "",
+        "Ø Price": "15,215",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Sensor",
+        "Buy": "",
+        "Ø Price": "290,190",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Thargoid Technology Samples",
+        "Buy": "",
+        "Ø Price": "22,551",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Time Capsule",
+        "Buy": "",
+        "Ø Price": "",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Trade Data (USS Cargo)",
+        "Buy": "",
+        "Ø Price": "2,790",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Unstable Data Core",
+        "Buy": "",
+        "Ø Price": "2,427",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Salvage",
+        "Name": "Wreckage Components",
+        "Buy": "",
+        "Ø Price": "9,032",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Slavery",
+        "Name": "Imperial Slaves",
+        "Buy": "1,649",
+        "Ø Price": "17,435",
+        "Sell": "18,541",
+        "Profit": "16,892",
+        "% Buy": "5 %",
+        "% Sell": "18 %"
+    },
+    {
+        "Category": "Slavery",
+        "Name": "Slaves",
+        "Buy": "9,778",
+        "Ø Price": "13,166",
+        "Sell": "15,507",
+        "Profit": "5,729",
+        "% Buy": "0 %",
+        "% Sell": "2 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Advanced Catalysers",
+        "Buy": "1,997",
+        "Ø Price": "3,113",
+        "Sell": "3,944",
+        "Profit": "1,947",
+        "% Buy": "1 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Animal Monitors",
+        "Buy": "69",
+        "Ø Price": "534",
+        "Sell": "4,673",
+        "Profit": "4,604",
+        "% Buy": "2 %",
+        "% Sell": "5 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Aquaponic Systems",
+        "Buy": "46",
+        "Ø Price": "527",
+        "Sell": "2,745",
+        "Profit": "2,699",
+        "% Buy": "2 %",
+        "% Sell": "7 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Auto-Fabricators",
+        "Buy": "2,774",
+        "Ø Price": "3,863",
+        "Sell": "5,471",
+        "Profit": "2,697",
+        "% Buy": "2 %",
+        "% Sell": "26 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Bioreducing Lichen",
+        "Buy": "389",
+        "Ø Price": "1,231",
+        "Sell": "1,767",
+        "Profit": "1,378",
+        "% Buy": "2 %",
+        "% Sell": "26 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Computer Components",
+        "Buy": "265",
+        "Ø Price": "691",
+        "Sell": "1,769",
+        "Profit": "1,504",
+        "% Buy": "19 %",
+        "% Sell": "26 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "H.E. Suits",
+        "Buy": "78",
+        "Ø Price": "572",
+        "Sell": "2,270",
+        "Profit": "2,192",
+        "% Buy": "1 %",
+        "% Sell": "52 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Hardware Diagnostic Sensor",
+        "Buy": "6,252",
+        "Ø Price": "6,729",
+        "Sell": "8,006",
+        "Profit": "1,754",
+        "% Buy": "0 %",
+        "% Sell": "7 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Land Enrichment Systems",
+        "Buy": "3,686",
+        "Ø Price": "4,954",
+        "Sell": "8,727",
+        "Profit": "5,041",
+        "% Buy": "2 %",
+        "% Sell": "8 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Medical Diagnostic Equipment",
+        "Buy": "2,183",
+        "Ø Price": "3,075",
+        "Sell": "7,482",
+        "Profit": "5,299",
+        "% Buy": "2 %",
+        "% Sell": "7 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Micro Controllers",
+        "Buy": "4,387",
+        "Ø Price": "5,624",
+        "Sell": "6,835",
+        "Profit": "2,448",
+        "% Buy": "2 %",
+        "% Sell": "26 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Muon Imager",
+        "Buy": "556",
+        "Ø Price": "6,304",
+        "Sell": "7,445",
+        "Profit": "6,889",
+        "% Buy": "1 %",
+        "% Sell": "5 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Nanobreakers",
+        "Buy": "",
+        "Ø Price": "2,365",
+        "Sell": "2,511",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "7 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Resonating Separators",
+        "Buy": "4,559",
+        "Ø Price": "6,057",
+        "Sell": "7,831",
+        "Profit": "3,272",
+        "% Buy": "1 %",
+        "% Sell": "25 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Robotics",
+        "Buy": "1,104",
+        "Ø Price": "2,038",
+        "Sell": "3,932",
+        "Profit": "2,828",
+        "% Buy": "2 %",
+        "% Sell": "26 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Structural Regulators",
+        "Buy": "1,104",
+        "Ø Price": "1,951",
+        "Sell": "3,230",
+        "Profit": "2,126",
+        "% Buy": "2 %",
+        "% Sell": "16 %"
+    },
+    {
+        "Category": "Technology",
+        "Name": "Telemetry Suite",
+        "Buy": "",
+        "Ø Price": "3,213",
+        "Sell": "3,381",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "7 %"
+    },
+    {
+        "Category": "Textiles",
+        "Name": "Conductive Fabrics",
+        "Buy": "39",
+        "Ø Price": "659",
+        "Sell": "5,072",
+        "Profit": "5,033",
+        "% Buy": "19 %",
+        "% Sell": "40 %"
+    },
+    {
+        "Category": "Textiles",
+        "Name": "Leather",
+        "Buy": "11",
+        "Ø Price": "425",
+        "Sell": "2,433",
+        "Profit": "2,422",
+        "% Buy": "3 %",
+        "% Sell": "22 %"
+    },
+    {
+        "Category": "Textiles",
+        "Name": "Military Grade Fabrics",
+        "Buy": "61",
+        "Ø Price": "901",
+        "Sell": "14,269",
+        "Profit": "14,208",
+        "% Buy": "24 %",
+        "% Sell": "28 %"
+    },
+    {
+        "Category": "Textiles",
+        "Name": "Natural Fabrics",
+        "Buy": "34",
+        "Ø Price": "679",
+        "Sell": "2,795",
+        "Profit": "2,761",
+        "% Buy": "3 %",
+        "% Sell": "22 %"
+    },
+    {
+        "Category": "Textiles",
+        "Name": "Synthetic Fabrics",
+        "Buy": "8",
+        "Ø Price": "360",
+        "Sell": "4,420",
+        "Profit": "4,412",
+        "% Buy": "21 %",
+        "% Sell": "42 %"
+    },
+    {
+        "Category": "Waste",
+        "Name": "Biowaste",
+        "Buy": "4",
+        "Ø Price": "342",
+        "Sell": "1,054",
+        "Profit": "1,050",
+        "% Buy": "56 %",
+        "% Sell": "59 %"
+    },
+    {
+        "Category": "Waste",
+        "Name": "Chemical Waste",
+        "Buy": "",
+        "Ø Price": "672",
+        "Sell": "5,754",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "21 %"
+    },
+    {
+        "Category": "Waste",
+        "Name": "Scrap",
+        "Buy": "29",
+        "Ø Price": "253",
+        "Sell": "799",
+        "Profit": "770",
+        "% Buy": "23 %",
+        "% Sell": "41 %"
+    },
+    {
+        "Category": "Waste",
+        "Name": "Toxic Waste",
+        "Buy": "",
+        "Ø Price": "886",
+        "Sell": "",
+        "Profit": "",
+        "% Buy": "0 %",
+        "% Sell": "0 %"
+    },
+    {
+        "Category": "Weapons",
+        "Name": "Battle Weapons",
+        "Buy": "593",
+        "Ø Price": "7,423",
+        "Sell": "8,102",
+        "Profit": "7,509",
+        "% Buy": "5 %",
+        "% Sell": "6 %"
+    },
+    {
+        "Category": "Weapons",
+        "Name": "Landmines",
+        "Buy": "360",
+        "Ø Price": "4,734",
+        "Sell": "5,221",
+        "Profit": "4,861",
+        "% Buy": "1 %",
+        "% Sell": "6 %"
+    },
+    {
+        "Category": "Weapons",
+        "Name": "Non-Lethal Weapons",
+        "Buy": "147",
+        "Ø Price": "1,924",
+        "Sell": "5,512",
+        "Profit": "5,365",
+        "% Buy": "6 %",
+        "% Sell": "63 %"
+    },
+    {
+        "Category": "Weapons",
+        "Name": "Personal Weapons",
+        "Buy": "3,449",
+        "Ø Price": "4,690",
+        "Sell": "6,245",
+        "Profit": "2,796",
+        "% Buy": "7 %",
+        "% Sell": "24 %"
+    },
+    {
+        "Category": "Weapons",
+        "Name": "Reactive Armour",
+        "Buy": "183",
+        "Ø Price": "2,215",
+        "Sell": "3,104",
+        "Profit": "2,921",
+        "% Buy": "6 %",
+        "% Sell": "63 %"
+    }
+]
